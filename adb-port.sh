@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 su
 setprop service.adb.tcp.port 5555
 stop adbd
